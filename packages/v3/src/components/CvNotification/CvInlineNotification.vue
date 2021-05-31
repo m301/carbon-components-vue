@@ -47,7 +47,7 @@
 
 <script>
 import { computed } from 'vue';
-import { Close20 } from '@carbon/icons-vue';
+import Close20 from '@carbon/icons-vue/es/close/20';
 import { carbonPrefix } from '../../global/settings';
 import { notificationKinds, notificationIcons } from './consts';
 

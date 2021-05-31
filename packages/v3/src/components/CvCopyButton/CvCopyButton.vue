@@ -12,7 +12,7 @@
 </template>
 
 <script>
-import { Copy16 } from '@carbon/icons-vue';
+import Copy16 from '@carbon/icons-vue/es/copy/16';
 import { carbonPrefix } from '../../global/settings';
 import CviCopyButton from './_CviCopyButton';
 

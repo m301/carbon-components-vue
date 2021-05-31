@@ -62,7 +62,7 @@ import { carbonPrefix } from '../../global/settings';
 import { useElementHasOverflow } from '../../use/overflow';
 import CvCopyButton from '../CvCopyButton/CvCopyButton';
 import CvButton from '../CvButton';
-import { ChevronDown16 } from '@carbon/icons-vue';
+import ChevronDown16 from '@carbon/icons-vue/es/chevron--down/16';
 
 const ROW_HEIGHT_IN_PX = 16;
 
