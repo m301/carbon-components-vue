@@ -86,7 +86,11 @@
 
 <script>
 import { uidMixin, themeMixin, methodsMixin, carbonPrefixMixin } from '../../mixins';
-import { WarningFilled16, WarningAltFilled16, View16, ViewOff16 } from '@carbon/icons-vue';
+
+import WarningFilled16 from '@carbon/icons-vue/es/warning--filled/16';
+import WarningAltFilled16 from '@carbon/icons-vue/es/warning--alt--filled/16';
+import View16 from '@carbon/icons-vue/es/view/16';
+import ViewOff16 from '@carbon/icons-vue/es/view--off/16';
 
 export default {
   name: 'CvTextInput',

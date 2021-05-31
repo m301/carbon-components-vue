@@ -94,7 +94,9 @@
 </template>
 
 <script>
-import { ChevronLeft16, ChevronRight16 } from '@carbon/icons-vue';
+import ChevronLeft16 from '@carbon/icons-vue/es/chevron--left/16';
+import ChevronRight16 from '@carbon/icons-vue/es/chevron--right/16';
+
 import { carbonPrefixMixin } from '../../mixins';
 
 export default {

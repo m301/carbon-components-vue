@@ -34,7 +34,11 @@
 </template>
 
 <script>
-import { CircleFilled16, CheckmarkOutline16, Warning16, RadioButton16 } from '@carbon/icons-vue';
+import Warning16 from '@carbon/icons-vue/es/warning/16';
+import RadioButton16 from '@carbon/icons-vue/es/radio-button/16';
+import CircleFilled16 from '@carbon/icons-vue/es/circle--filled/16';
+import CheckmarkOutline16 from '@carbon/icons-vue/es/checkmark--outline/16';
+
 import { carbonPrefixMixin } from '../../mixins';
 
 const states = ['incomplete', 'current', 'complete'];
